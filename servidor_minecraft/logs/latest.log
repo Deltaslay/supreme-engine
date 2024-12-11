@@ -69,3 +69,12 @@
 [07:26:09] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
 [07:26:09] [Server thread/INFO]: Timings Reset
 [07:26:09] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.0, you're on: 5.1.2-SNAPSHOT
+[07:37:45] [User Authenticator #0/INFO]: UUID of player Infinite35 is 954021cb-564d-3d5a-b3b6-b7934d4c7723
+[07:37:47] [Server thread/INFO]: Infinite35 joined the game
+[07:37:47] [Server thread/INFO]: Infinite35[/100.71.198.69:45920] logged in with entity id 74 at ([world]57.29438983060253, 72.0, -70.08374424546204)
+[07:38:33] [Server thread/INFO]: Infinite35 issued server command: /tp Infinite35 0 0 0
+[07:38:33] [Server thread/INFO]: [Infinite35: Teleported Infinite35 to 0.500000, 0.000000, 0.500000]
+[07:40:51] [Server thread/INFO]: Infinite35 issued server command: /tps
+[07:41:12] [Server thread/INFO]: Infinite35 has reached the goal [Sky's the Limit]
+[07:43:21] [Server thread/INFO]: Infinite35 issued server command: /difficulty normal
+[07:43:21] [Server thread/INFO]: [Infinite35: The difficulty has been set to Normal]
