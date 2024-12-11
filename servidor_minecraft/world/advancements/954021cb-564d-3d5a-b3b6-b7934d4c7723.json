@@ -242,12 +242,6 @@
     },
     "done": true
   },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2024-12-11 07:41:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-12-11 07:38:10 +0000"
@@ -257,6 +251,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-11 07:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-12-11 07:41:12 +0000"
     },
     "done": true
   },

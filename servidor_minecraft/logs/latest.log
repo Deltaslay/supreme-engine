@@ -78,3 +78,8 @@
 [07:41:12] [Server thread/INFO]: Infinite35 has reached the goal [Sky's the Limit]
 [07:43:21] [Server thread/INFO]: Infinite35 issued server command: /difficulty normal
 [07:43:21] [Server thread/INFO]: [Infinite35: The difficulty has been set to Normal]
+[07:48:27] [Server thread/INFO]: Infinite35 lost connection: Disconnected
+[07:48:27] [Server thread/INFO]: Infinite35 left the game
+[07:49:31] [User Authenticator #1/INFO]: UUID of player Infinite35 is 954021cb-564d-3d5a-b3b6-b7934d4c7723
+[07:49:33] [Server thread/INFO]: Infinite35 joined the game
+[07:49:33] [Server thread/INFO]: Infinite35[/100.71.198.69:46775] logged in with entity id 4963 at ([world]-377.57310584307845, 115.0, 200.81889136009863)
