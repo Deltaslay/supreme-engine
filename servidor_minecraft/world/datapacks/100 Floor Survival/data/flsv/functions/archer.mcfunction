@@ -1,0 +1,2 @@
+execute as @e[tag=arrow] at @s as @e[type=arrow,distance=..3,tag=!special] run data merge entity @s {damage:2d,crit:1b,PierceLevel:1b,CustomPotionEffects:[{Id:2b,Amplifier:1b,Duration:100},{Id:9b,Amplifier:1b,Duration:100},{Id:17b,Amplifier:1b,Duration:100},{Id:20b,Amplifier:0b,Duration:60}]}
+execute as @e[tag=arrow] at @s as @e[type=arrow,distance=..3,tag=!special] run tag @s add special

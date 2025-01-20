@@ -1,0 +1,9 @@
+execute as @e[tag=wizard] at @s unless entity @e[tag=wizardr,distance=..1] run scoreboard players set @s Wizard 0
+execute as @e[tag=wizard] at @s store result score @s Wizard if entity @e[tag=wizardr,distance=..1]
+execute as @e[tag=wizardr] at @s at @e[tag=wizard,type=witch,limit=1,sort=nearest] run tp @s ~ ~ ~
+execute as @e[tag=wizard] at @s if score @s Wizard matches 2.. run tp @e[tag=wizardr,distance=..1,limit=1,sort=random] @e[tag=wizard,sort=random,limit=1,scores={Wizard=0}]
+execute as @e[tag=wizardr] at @s unless entity @e[tag=wizard,type=minecraft:witch,distance=..2] run kill @s
+
+execute as @e[tag=wizard] at @s as @e[type=potion,nbt={Item:{id:"minecraft:splash_potion",Count:1b,tag:{Potion:"minecraft:poison"}}},distance=..2] run data merge entity @s {Item:{id:"minecraft:splash_potion",Count:1b,tag:{Potion:"minecraft:empty",CustomPotionColor:0,CustomPotionEffects:[{Id:18b,Amplifier:0b,Duration:300},{Id:19b,Amplifier:0b,Duration:300}]}}}
+execute as @e[tag=wizard] at @s as @e[type=potion,nbt={Item:{id:"minecraft:splash_potion",Count:1b,tag:{Potion:"minecraft:harming"}}},distance=..2] run data merge entity @s {Item:{id:"minecraft:splash_potion",Count:1b,tag:{CustomPotionColor:11337728,CustomPotionEffects:[{Id:15b,Amplifier:0b,Duration:200}]}}}
+execute as @e[tag=wizard] at @s as @e[type=potion,nbt={Item:{id:"minecraft:splash_potion",Count:1b,tag:{Potion:"minecraft:slowness"}}},distance=..2] run data merge entity @s {Item:{id:"minecraft:splash_potion",Count:1b,tag:{Potion:"minecraft:empty",CustomPotionColor:255,CustomPotionEffects:[{Id:2b,Amplifier:2b,Duration:200}]}}}

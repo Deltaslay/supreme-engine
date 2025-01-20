@@ -1,0 +1,1 @@
+summon husk 0 226 -5 {CustomNameVisible:0b,NoAI:1b,Health:40f,Tags:["f"],CustomName:'{"text":"ThatGuyJAO"}',HandItems:[{id:"minecraft:iron_sword",Count:1b},{}],HandDropChances:[100.000F,0.085F],Attributes:[{Name:generic.max_health,Base:40},{Name:generic.movement_speed,Base:0.35}]}

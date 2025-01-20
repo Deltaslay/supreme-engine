@@ -1,0 +1,4 @@
+give @s minecraft:cooked_beef{CustomModelData:1}
+tellraw @s {"text":"Resource Pack\n","color":"aqua","underlined":true}
+tellraw @s [{"text":"If you are holding a burger then you have the resource pack enabled.","color":"aqua"},{"text":"\nIf you don't have it enabled then download it "},{"text":"[HERE]","color":"gold","bold":true,"clickEvent":{"action":"open_url","value":"https://www.mediafire.com/file/jku1kar8lu6mb0x/100+Floor+Survival+RP.zip/file"}},{"text":"\nUse the resouce pack for a better experience!","color":"gold","bold":false}]
+tellraw @s [{"text":"Note recommended player amount is 4+ players!\nIf you find a bug, please report it in my ","color":"aqua"},{"text":"Discord","color":"blue","bold":true,"clickEvent":{"action":"open_url","value":"https://discord.com/invite/8Hukyqq"}}]

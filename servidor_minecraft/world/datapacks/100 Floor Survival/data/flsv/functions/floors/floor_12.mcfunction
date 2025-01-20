@@ -1,0 +1,12 @@
+summon chicken 0 226 -5 {NoAI:1b,Tags:["f"],Passengers:[{id:"minecraft:zombie",NoAI:1b,IsBaby:1b,Tags:["f"]}],HandItems:[{id:"minecraft:cooked_chicken",Count:3b},{}],HandDropChances:[1.000F,0.085F]}
+summon chicken 0 226 -5 {NoAI:1b,Tags:["f"],Passengers:[{id:"minecraft:zombie",NoAI:1b,IsBaby:1b,Tags:["f"]}],HandItems:[{id:"minecraft:cooked_chicken",Count:3b},{}],HandDropChances:[1.000F,0.085F]}
+summon chicken 0 226 -5 {NoAI:1b,Tags:["f"],Passengers:[{id:"minecraft:zombie",NoAI:1b,IsBaby:1b,Tags:["f"]}],HandItems:[{id:"minecraft:cooked_chicken",Count:3b},{}],HandDropChances:[1.000F,0.085F]}
+summon chicken 0 226 -5 {NoAI:1b,Tags:["f"],Passengers:[{id:"minecraft:zombie",NoAI:1b,IsBaby:1b,Tags:["f"]}],HandItems:[{id:"minecraft:cooked_chicken",Count:3b},{}],HandDropChances:[1.000F,0.085F]}
+summon chicken 0 226 -5 {NoAI:1b,Tags:["f"],Passengers:[{id:"minecraft:zombie",NoAI:1b,IsBaby:1b,Tags:["f"]}],HandItems:[{id:"minecraft:cooked_chicken",Count:3b},{}],HandDropChances:[1.000F,0.085F]}
+summon chicken 2 226 -5 {NoAI:1b,Tags:["f"],Passengers:[{id:"minecraft:zombie",NoAI:1b,IsBaby:1b,Tags:["f"]}],HandItems:[{id:"minecraft:cooked_chicken",Count:3b},{}],HandDropChances:[1.000F,0.085F]}
+summon chicken 2 226 -5 {NoAI:1b,Tags:["f"],Passengers:[{id:"minecraft:zombie",NoAI:1b,IsBaby:1b,Tags:["f"]}],HandItems:[{id:"minecraft:cooked_chicken",Count:3b},{}],HandDropChances:[1.000F,0.085F]}
+summon chicken 2 226 -5 {NoAI:1b,Tags:["f"],Passengers:[{id:"minecraft:zombie",NoAI:1b,IsBaby:1b,Tags:["f"]}],HandItems:[{id:"minecraft:cooked_chicken",Count:3b},{}],HandDropChances:[1.000F,0.085F]}
+summon chicken 2 226 -5 {NoAI:1b,Tags:["f"],Passengers:[{id:"minecraft:zombie",NoAI:1b,IsBaby:1b,Tags:["f"]}],HandItems:[{id:"minecraft:cooked_chicken",Count:3b},{}],HandDropChances:[1.000F,0.085F]}
+summon chicken 2 226 -5 {NoAI:1b,Tags:["f"],Passengers:[{id:"minecraft:zombie",NoAI:1b,IsBaby:1b,Tags:["f"]}],HandItems:[{id:"minecraft:cooked_chicken",Count:3b},{}],HandDropChances:[1.000F,0.085F]}
+summon chicken -2 226 -5 {NoAI:1b,Tags:["f"],Passengers:[{id:"minecraft:zombie",NoAI:1b,IsBaby:1b,Tags:["f"]}],HandItems:[{id:"minecraft:cooked_chicken",Count:3b},{}],HandDropChances:[1.000F,0.085F]}
+summon chicken -2 226 -5 {NoAI:1b,Tags:["f"],Passengers:[{id:"minecraft:zombie",NoAI:1b,IsBaby:1b,Tags:["f"]}],HandItems:[{id:"minecraft:cooked_chicken",Count:3b},{}],HandDropChances:[1.000F,0.085F]}

@@ -1,0 +1,1 @@
+summon minecraft:slime 0.0 226 -5 {NoAI:1b,Size:12,Tags:["f"]}

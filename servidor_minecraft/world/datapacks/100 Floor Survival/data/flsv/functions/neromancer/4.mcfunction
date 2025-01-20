@@ -1,0 +1,12 @@
+summon falling_block ~ ~2 ~ {BlockState:{Name:"minecraft:fire"},Time:1,Motion:[0.1,0.1,0.1]}
+summon falling_block ~ ~2 ~ {BlockState:{Name:"minecraft:fire"},Time:1,Motion:[-0.1,0.1,0.1]}
+summon falling_block ~ ~2 ~ {BlockState:{Name:"minecraft:fire"},Time:1,Motion:[0.1,0.1,-0.1]}
+summon falling_block ~ ~2 ~ {BlockState:{Name:"minecraft:fire"},Time:1,Motion:[-0.1,0.1,-0.1]}
+summon falling_block ~ ~2 ~ {BlockState:{Name:"minecraft:fire"},Time:1,Motion:[0.1,0.3,0.1]}
+summon falling_block ~ ~2 ~ {BlockState:{Name:"minecraft:fire"},Time:1,Motion:[-0.1,0.3,0.1]}
+summon falling_block ~ ~2 ~ {BlockState:{Name:"minecraft:fire"},Time:1,Motion:[0.1,0.3,-0.1]}
+summon falling_block ~ ~2 ~ {BlockState:{Name:"minecraft:fire"},Time:1,Motion:[-0.1,0.3,-0.1]}
+summon falling_block ~ ~2 ~ {BlockState:{Name:"minecraft:fire"},Time:1,Motion:[0.3,0.5,0.3]}
+summon falling_block ~ ~2 ~ {BlockState:{Name:"minecraft:fire"},Time:1,Motion:[-0.3,0.5,0.3]}
+summon falling_block ~ ~2 ~ {BlockState:{Name:"minecraft:fire"},Time:1,Motion:[0.3,0.5,-0.3]}
+summon falling_block ~ ~2 ~ {BlockState:{Name:"minecraft:fire"},Time:1,Motion:[-0.3,0.5,-0.3]}
